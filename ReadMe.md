@@ -7,7 +7,7 @@ Welcome to this comprehensive developer learning path! This repository contains 
 
 This learning path will take you through:
 
-1. (**Docker Setup**)[./docs/InstallDocker.md]: Learn how to set up Docker, an essential tool for containerization
+1.                                      **Docker Setup**: Learn how to set up Docker, an essential tool for containerization
 2. **AI Integration**: Install and run the DeepSeek R1 AI model locally
 3. **API Fundamentals**: Understand the basics of APIs and HTTP requests
 4. **Mobile Development**: Build cross-platform mobile apps with Expo
